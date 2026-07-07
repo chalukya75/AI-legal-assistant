@@ -23,7 +23,7 @@ with st.form("legal_form"):
 
 if submitted:
     if not user_input.strip():
-        st.warning("Please enter a legal issue to analyze.")
+        st.warning("Please enter a legal issue to slove.")
     else:
         with st.spinner("🔎 Analyzing your case and preparing legal output..."):
             result = legal_assistant_crew.kickoff(inputs={"user_input": user_input})
