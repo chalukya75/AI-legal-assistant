@@ -280,7 +280,7 @@ Supports deployment on modern cloud infrastructure.
 
 
 
-## Vision
+## Vision.
 
 To democratize access to legal knowledge through trustworthy, explainable, and collaborative artificial intelligence.
 
